@@ -12,6 +12,7 @@
     <modules>
         <module>hello-service</module>
         <module>hello-app</module>
+        <module>hello-starter</module>
     </modules>
 
     <properties>
